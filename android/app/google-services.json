@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095651691609",
+    "project_id": "vecsympo",
+    "storage_bucket": "vecsympo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095651691609:android:cb426c5a383ce6a848b548",
+        "android_client_info": {
+          "package_name": "com.vecsympo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095651691609-83r8543j1152lfgrhr6nb2hvaa9hbvlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOiKQ6R0uZBcfShDn2kRHyl2XDBB9-o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095651691609-83r8543j1152lfgrhr6nb2hvaa9hbvlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
