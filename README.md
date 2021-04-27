@@ -3,8 +3,7 @@
 An registration application made with flutter and firebase,with authentication page and with an beautiful UI,the user can register events and also able to see information about the event and the event coordinators.The images shown bellow are a college based symposium management to track and register events from various departments. 
 
 ![Alt text](897417e3-2554-4223-be04-dbf48af5f62b (1).jpg?raw=true "Login SCreen")
-![Alt text](74ac66b3-950b-4fb5-9a08-a97d8e90da18 (1).jpg?raw=true "Home SCreen")
-![Alt text](aa2caa68-abf2-4809-95f1-8e74fa5fba0b (1).jpg?raw=true "Register SCreen")
+
 
 ## Getting Started
 
