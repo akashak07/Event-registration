@@ -2,7 +2,7 @@
 
 What it vecsympo does?
 
-![Alt text](74ac66b3-950b-4fb5-9a08-a97d8e90da18.jpg?raw=true "Home SCreen"
+![Alt text](74ac66b3-950b-4fb5-9a08-a97d8e90da18.jpg?raw=true "Home SCreen")
 
 ## Getting Started
 
